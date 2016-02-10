@@ -1,0 +1,28 @@
+name: dustywindow
+favicon: null
+layout_spectrum: 0.22362218657508492
+typography_spectrum: 0.3016914001200348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6887394955847412
+  lightness: 0.3563498533330858
+  saturation: 0.5654697322752327
+  rhythmicContrast: 0.7536913526710123
+purpose: []

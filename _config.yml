@@ -2,6 +2,7 @@ name: dustywindow
 favicon: null
 layout_spectrum: 0.16101
 typography_spectrum: 0.20897
+title: Through the window
 cta:
   domain: null
   bucket: null

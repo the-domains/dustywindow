@@ -1,7 +1,7 @@
 name: dustywindow
 favicon: null
 layout_spectrum: 0.16101
-typography_spectrum: 0.20897
+typography_spectrum: 0.44357
 title: Through the window
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ffffff'
     - '#b7b7b7'
     - '#ff0000'
-  brandStrength: 0.5
+  brandStrength: 0.125
   lightness: 0.3563498533330858
-  saturation: 0.5654697322752327
-  rhythmicContrast: 0.7536913526710123
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
